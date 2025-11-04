@@ -185,5 +185,6 @@ print("Score as integer:", score_int, "| Type:", type(score_int))
 - Use `type()` to check data types.
 - Convert types with casting functions when needed.
 - Follow naming best practices for clean code.
+add
 ```
 
